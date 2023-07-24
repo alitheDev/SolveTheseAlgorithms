@@ -1,7 +1,12 @@
+Problem Statement: Your job is to write a function, which takes three integers a, b, and c as arguments, 
+and returns True if exactly two of of the three integers are positive numbers (greater than zero), 
+and False - otherwise.
+
+
 <!DOCTYPE html>
 <html>
 <body>
-<h1>JavaScript Arrays</h1>
+<h1>JavaScript </h1>
 
 <p id="no1"></p>
 <p id="no2"></p>
